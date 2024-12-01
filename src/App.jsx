@@ -1,5 +1,4 @@
 import './App.css'
-
 import { useState, useEffect } from 'react';
 import initialContacts from './assets/contacts.json'
 import ContactList from './components/ContactList/ContactList';
